@@ -34,3 +34,5 @@ You can close it at any time by pressing <kbd>ctrl</kbd> + <kbd>c</kbd>
 
 
 Join the discord server [here](https://discord.gg/nowgg)!
+
+Made by Thesecondalthowcool and Galactic Network.
